@@ -1,0 +1,2 @@
+# Trading-bot
+This Python bot uses machine learning (Random Forest) to analyze stock trends and place paper trades automatically through the Alpaca API. It fetches historical market data from Yahoo Finance (yfinance), trains a simple model for each stock, and makes buy/sell decisions based on the model’s predicted probability of an upward move.
